@@ -1,4 +1,4 @@
-# Avoidance
+# AvoidanceBot
 Simple autonomous obstacle avoidance robot
 
 # Intro
