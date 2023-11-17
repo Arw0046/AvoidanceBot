@@ -1,0 +1,642 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+                              ../../programs/headers/USART.o (__udivmodqi4)
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+                              ../../programs/headers/Robot.o (__udivmodhi4)
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                              c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o (exit)
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                              ../../programs/headers/support.o (__do_copy_data)
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                              ../../programs/headers/Robot.o (__do_clear_bss)
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+                              ../../programs/headers/Robot.o (__usmulhisi3)
+c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o) (__umulhisi3)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .bss           0x0000000000000000        0x0 main.o
+ .text          0x0000000000000000        0x0 ../../programs/headers/Robot.o
+ .data          0x0000000000000000        0x0 ../../programs/headers/Robot.o
+ .bss           0x0000000000000000        0x0 ../../programs/headers/Robot.o
+ .text          0x0000000000000000        0x0 ../../programs/headers/USART.o
+ .data          0x0000000000000000        0x0 ../../programs/headers/USART.o
+ .bss           0x0000000000000000        0x0 ../../programs/headers/USART.o
+ .text.initUSART
+                0x0000000000000000       0x22 ../../programs/headers/USART.o
+ .text.transmitByte
+                0x0000000000000000        0xe ../../programs/headers/USART.o
+ .text.receiveByte
+                0x0000000000000000        0xe ../../programs/headers/USART.o
+ .text.printString
+                0x0000000000000000       0x26 ../../programs/headers/USART.o
+ .text.readString
+                0x0000000000000000       0x58 ../../programs/headers/USART.o
+ .text.printByte
+                0x0000000000000000       0x32 ../../programs/headers/USART.o
+ .text.printWord
+                0x0000000000000000       0x76 ../../programs/headers/USART.o
+ .text.printBinaryByte
+                0x0000000000000000       0x3a ../../programs/headers/USART.o
+ .text.nibbleToHexCharacter
+                0x0000000000000000        0xc ../../programs/headers/USART.o
+ .text.printHexByte
+                0x0000000000000000       0x1e ../../programs/headers/USART.o
+ .text.getNumber
+                0x0000000000000000       0x46 ../../programs/headers/USART.o
+ .debug_info    0x0000000000000000      0x3dc ../../programs/headers/USART.o
+ .debug_abbrev  0x0000000000000000      0x16e ../../programs/headers/USART.o
+ .debug_loc     0x0000000000000000      0x57c ../../programs/headers/USART.o
+ .debug_aranges
+                0x0000000000000000       0x70 ../../programs/headers/USART.o
+ .debug_ranges  0x0000000000000000       0x60 ../../programs/headers/USART.o
+ .debug_line    0x0000000000000000      0x2ab ../../programs/headers/USART.o
+ .debug_str     0x0000000000000000      0x243 ../../programs/headers/USART.o
+ .comment       0x0000000000000000       0x31 ../../programs/headers/USART.o
+ .debug_frame   0x0000000000000000      0x148 ../../programs/headers/USART.o
+ .text          0x0000000000000000        0x0 ../../programs/headers/organ.o
+ .data          0x0000000000000000        0x0 ../../programs/headers/organ.o
+ .bss           0x0000000000000000        0x0 ../../programs/headers/organ.o
+ .text.playNote
+                0x0000000000000000       0x2e ../../programs/headers/organ.o
+ .text.rest     0x0000000000000000        0x8 ../../programs/headers/organ.o
+ .debug_info    0x0000000000000000      0x1b9 ../../programs/headers/organ.o
+ .debug_abbrev  0x0000000000000000      0x105 ../../programs/headers/organ.o
+ .debug_loc     0x0000000000000000      0x10a ../../programs/headers/organ.o
+ .debug_aranges
+                0x0000000000000000       0x28 ../../programs/headers/organ.o
+ .debug_ranges  0x0000000000000000       0x18 ../../programs/headers/organ.o
+ .debug_line    0x0000000000000000      0x14e ../../programs/headers/organ.o
+ .debug_str     0x0000000000000000      0x1d4 ../../programs/headers/organ.o
+ .comment       0x0000000000000000       0x31 ../../programs/headers/organ.o
+ .debug_frame   0x0000000000000000       0x34 ../../programs/headers/organ.o
+ .text          0x0000000000000000        0x0 ../../programs/headers/support.o
+ .data          0x0000000000000000        0x0 ../../programs/headers/support.o
+ .bss           0x0000000000000000        0x0 ../../programs/headers/support.o
+ .rodata.printMilliseconds.str1.1
+                0x0000000000000000       0x18 ../../programs/headers/support.o
+ .text.printMilliseconds
+                0x0000000000000000       0x86 ../../programs/headers/support.o
+ .rodata.printComments.str1.1
+                0x0000000000000000       0xa7 ../../programs/headers/support.o
+ .text.printComments
+                0x0000000000000000       0x56 ../../programs/headers/support.o
+ .text.randomDelay
+                0x0000000000000000       0x2e ../../programs/headers/support.o
+ .debug_info    0x0000000000000000      0x269 ../../programs/headers/support.o
+ .debug_abbrev  0x0000000000000000      0x185 ../../programs/headers/support.o
+ .debug_loc     0x0000000000000000      0x22c ../../programs/headers/support.o
+ .debug_aranges
+                0x0000000000000000       0x30 ../../programs/headers/support.o
+ .debug_ranges  0x0000000000000000       0x20 ../../programs/headers/support.o
+ .debug_line    0x0000000000000000      0x213 ../../programs/headers/support.o
+ .debug_str     0x0000000000000000      0x210 ../../programs/headers/support.o
+ .comment       0x0000000000000000       0x31 ../../programs/headers/support.o
+ .debug_frame   0x0000000000000000       0x50 ../../programs/headers/support.o
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x18 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000004000 xr
+data             0x0000000000800100 0x0000000000000400 rw !x
+eeprom           0x0000000000810000 0x0000000000000200 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+LOAD main.o
+LOAD ../../programs/headers/Robot.o
+LOAD ../../programs/headers/USART.o
+LOAD ../../programs/headers/organ.o
+LOAD ../../programs/headers/support.o
+START GROUP
+LOAD c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a
+LOAD c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libc.a
+LOAD c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5\libatmega168.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x21e
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000000000000068                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000068                __ctors_start = .
+ *(.ctors)
+                0x0000000000000068                __ctors_end = .
+                0x0000000000000068                __dtors_start = .
+ *(.dtors)
+                0x0000000000000068                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000068        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+                0x0000000000000068                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000068        0xc c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000074       0x16 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000074                __do_copy_data
+ .init4         0x000000000000008a       0x10 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000000000008a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000009a        0x8 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000a2        0x4 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+                0x00000000000000a2                __vector_22
+                0x00000000000000a2                __vector_1
+                0x00000000000000a2                __vector_24
+                0x00000000000000a2                __vector_12
+                0x00000000000000a2                __bad_interrupt
+                0x00000000000000a2                __vector_6
+                0x00000000000000a2                __vector_3
+                0x00000000000000a2                __vector_23
+                0x00000000000000a2                __vector_25
+                0x00000000000000a2                __vector_11
+                0x00000000000000a2                __vector_17
+                0x00000000000000a2                __vector_19
+                0x00000000000000a2                __vector_7
+                0x00000000000000a2                __vector_5
+                0x00000000000000a2                __vector_4
+                0x00000000000000a2                __vector_9
+                0x00000000000000a2                __vector_2
+                0x00000000000000a2                __vector_21
+                0x00000000000000a2                __vector_15
+                0x00000000000000a2                __vector_8
+                0x00000000000000a2                __vector_14
+                0x00000000000000a2                __vector_10
+                0x00000000000000a2                __vector_16
+                0x00000000000000a2                __vector_18
+                0x00000000000000a2                __vector_20
+                0x00000000000000a6                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup.main
+                0x00000000000000a6       0x12 main.o
+                0x00000000000000a6                main
+ .text.__vector_13
+                0x00000000000000b8       0x2e ../../programs/headers/Robot.o
+                0x00000000000000b8                __vector_13
+ .text.robot_init
+                0x00000000000000e6       0x2a ../../programs/headers/Robot.o
+                0x00000000000000e6                robot_init
+ .text.sonar_trig
+                0x0000000000000110        0xe ../../programs/headers/Robot.o
+                0x0000000000000110                sonar_trig
+ .text.find_distance
+                0x000000000000011e       0x70 ../../programs/headers/Robot.o
+                0x000000000000011e                find_distance
+ .text.robot_navigate
+                0x000000000000018e       0x38 ../../programs/headers/Robot.o
+                0x000000000000018e                robot_navigate
+ .text.libgcc.div
+                0x00000000000001c6       0x28 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x00000000000001c6                __udivmodhi4
+ .text.libgcc.mul
+                0x00000000000001ee        0xe c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_usmulhisi3.o)
+                0x00000000000001ee                __usmulhisi3
+                0x00000000000001f2                __usmulhisi3_tail
+ .text.libgcc.mul
+                0x00000000000001fc       0x1e c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000000000001fc                __umulhisi3
+                0x000000000000021a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000000000000021a        0x0 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+                0x000000000000021a                _exit
+                0x000000000000021a                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000021a        0x4 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000000000021e                _etext = .
+
+.data           0x0000000000800100        0x0 load address 0x000000000000021e
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800100                . = ALIGN (0x2)
+                0x0000000000800100                _edata = .
+                0x0000000000800100                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800100        0x2
+                0x0000000000800100                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.TimerOverflow
+                0x0000000000800100        0x2 ../../programs/headers/Robot.o
+                0x0000000000800100                TimerOverflow
+ *(COMMON)
+                0x0000000000800102                PROVIDE (__bss_end, .)
+                0x000000000000021e                __data_load_start = LOADADDR (.data)
+                0x000000000000021e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800102        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800102                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x30
+ *(.comment)
+ .comment       0x0000000000000000       0x30 main.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x31 ../../programs/headers/Robot.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x60
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 main.o
+ .debug_aranges
+                0x0000000000000020       0x40 ../../programs/headers/Robot.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x973
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x5f4 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ .debug_info    0x00000000000005f4       0xd8 main.o
+ .debug_info    0x00000000000006cc      0x2a7 ../../programs/headers/Robot.o
+
+.debug_abbrev   0x0000000000000000      0x78c
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x5a2 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ .debug_abbrev  0x00000000000005a2       0x63 main.o
+ .debug_abbrev  0x0000000000000605      0x187 ../../programs/headers/Robot.o
+
+.debug_line     0x0000000000000000      0x29a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ .debug_line    0x000000000000001a       0x6e main.o
+ .debug_line    0x0000000000000088      0x212 ../../programs/headers/Robot.o
+
+.debug_frame    0x0000000000000000       0x9c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x24 main.o
+ .debug_frame   0x0000000000000024       0x78 ../../programs/headers/Robot.o
+
+.debug_str      0x0000000000000000      0x3f1
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x208 c:/users/arw00/avr/avr-gnu-toolchain/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr5/crtatmega168.o
+ .debug_str     0x0000000000000208      0x13e main.o
+                                        0x172 (size before relaxing)
+ .debug_str     0x0000000000000346       0xab ../../programs/headers/Robot.o
+                                        0x21a (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x1d6
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x1d6 ../../programs/headers/Robot.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x40
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 main.o
+ .debug_ranges  0x0000000000000010       0x30 ../../programs/headers/Robot.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Robot.elf elf32-avr)
+LOAD linker stubs
