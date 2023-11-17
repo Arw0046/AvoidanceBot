@@ -27,7 +27,7 @@ Welcome! This is repo is for an autonomous robot that can avoid obstacles infron
 1. The first thing you will need to do is to download everything in this repo. I highly recommend downloading everything all in its own folder.
 2. Right click on the file called AVRGCCStart, and select edit with notepad++. Everywhere you see "yourpath", replace with the path you created in step one(dont delete everything after "yourpath"!)
 3. Hookup your atmega328p to your computer and double click on AVRGCCStart.
-4. Change directories to the ROBOT folder. To do this, type cd C:\"yourpath"\AvoidanceBot\ROBOT\robot. Then hit enter(make sure to change "yourpath")
+4. Change directory to the robot folder. To do this, type cd C:\"yourpath"\AvoidanceBot\ROBOT\robot. Then hit enter(make sure to change "yourpath")
 5. Type make flash, this will flash the program into your mcu.
 6. Now hook-up everything as described in the Schematic section.
 7. Now Test it out!
