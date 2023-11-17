@@ -2,7 +2,7 @@
 Simple autonomous obstacle avoidance robot
 
 # Intro
-Welcome! This is repo is for an autonomous robot that can avoid obstacles infront of it, and will contain all the software and hardware, along with a guided walkthrough of everything to set it up. Now i would like to give a brief description of everything the robot does. The robot will first send out a soundwave and wait for it to make its way back. It will then calculate the distance it travelled and determine if an obstacle is within 20cm in front of it. based on this determination, the robot will continue to drive foward if its greater than 20cm or stop for a second and turn left, then measure the distance again. As you can probably guess, this robot doesnt require much to get up and running. I have made a section labeled "Hardware" that lists all of the required tools. I will also be including all of the software that is needed to get this project running. Besides the program, you will need a way to compile the code and send it off into a microcontroller. All of the tools needed for this will be listed in the folder labeled "TOOLCHAIN". Now, onto the hardware...
+Welcome! This is repo is for an autonomous robot that can avoid obstacles infront of it, and will contain all the software and hardware, along with a guided walkthrough of everything to set it up. Now i would like to give a brief description of everything the robot does. The robot will first send out a soundwave and wait for it to make its way back. It will then calculate the distance it travelled and determine if an obstacle is within 20cm in front of it. Based on this determination, the robot will continue to drive foward if its greater than 20cm or stop for a second and turn left. As you can probably guess, this robot doesnt require much to get up and running. I have made a section labeled "Hardware" that lists all of the required tools, a section labeled "Schematic" for the cuircuit hook-up, and a video to give an idea of what the final product will look like and how it behaves. I will also be including all of the software that is needed to get this project running. Besides the program, you will need a way to compile the code and send it off into a microcontroller. All of the tools needed for this will be listed in the folder labeled "TOOLCHAIN". Now, onto the hardware...
 
 # Hardware
 * 1 Microcontroller (Atmega328P)
@@ -20,3 +20,14 @@ Welcome! This is repo is for an autonomous robot that can avoid obstacles infron
 * 1 10kohm resitor 
 * 1 wire strippers 
 * 1 wire cutters
+
+# Schematic
+
+# Guide
+1. The first thing you will need to do is to download everything in this repo. I highly recommend downloading everything all in its own folder.
+2. Right click on the file called AVRGCCStart, and select edit with notepad++. Everywhere you see "yourpath", replace with the path you created in step one(dont delete everything after "yourpath"!)
+3. Hookup your atmega328p to your computer and double click on AVRGCCStart.
+4. Change directories to the ROBOT folder. To do this, type cd C:\"yourpath"\AvoidanceBot\ROBOT. Then hit enter(make sure to change "yourpath")
+5. Type make flash, this will flash theprogram into your mcu.
+6. Now hook-up everything as described in the Schematic section.
+7. Now Test it out!
