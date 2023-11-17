@@ -1,4 +1,4 @@
-# Navbot
+# Avoidance
 Simple autonomous obstacle avoidance robot
 
 # Intro
