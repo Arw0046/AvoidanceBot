@@ -22,6 +22,7 @@ Welcome! This is repo is for an autonomous robot that can avoid obstacles infron
 * 1 wire cutters
 
 # Schematic
+![AVOIDANCESCHEMATIC](https://github.com/Arw0046/AvoidanceBot/assets/128861661/d2a776f9-e52d-484c-a444-ed041a450896)
 
 # Guide
 1. Create a new folder anywhere you like called "ARW_Bots", whithout the quotation marks. Really you can call this folder anyting but if you want to download more of my projects in the future, you can keep them all in here. Download this repo into that folder.
